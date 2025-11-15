@@ -1,4 +1,4 @@
-# ESP32-C6 Crypto Price Tracker
+![WhatsApp Image 2025-11-15 at 17 18 54_84f77b36](https://github.com/user-attachments/assets/15cfb220-19df-45af-8aec-5cb5e6d1cf61)# ESP32-C6 Crypto Price Tracker
 
 A real-time cryptocurrency price tracker for ESP32-C6 with LCD display, featuring live price updates, percentage changes, and interactive charts using LVGL graphics library.
 
@@ -131,9 +131,7 @@ This project uses the [Binance Public API](https://api.binance.com/api/v3/ticker
 - **Endpoint**: `GET /api/v3/ticker/price?symbol={SYMBOL}`
 - **Rate Limits**: No authentication required for public endpoints
 - **Free to use**: No API key needed
-
-./img.jpg
-
+[img.jpg]()
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
