@@ -131,7 +131,10 @@ This project uses the [Binance Public API](https://api.binance.com/api/v3/ticker
 - **Endpoint**: `GET /api/v3/ticker/price?symbol={SYMBOL}`
 - **Rate Limits**: No authentication required for public endpoints
 - **Free to use**: No API key needed
+
+  ### Output
 [img.jpg]()
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
