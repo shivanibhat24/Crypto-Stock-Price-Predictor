@@ -1,2 +1,2 @@
-#define WIFI_SSID     "Airtel-E5573-997A"
-#define WIFI_PASSWORD "5nne9emr"
+#define WIFI_SSID     "Your SSID"
+#define WIFI_PASSWORD "YOur Wi-fi Password"
