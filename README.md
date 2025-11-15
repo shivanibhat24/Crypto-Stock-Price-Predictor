@@ -143,7 +143,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - Built with [LVGL](https://lvgl.io/) graphics library
 - Uses [Binance API](https://binance-docs.github.io/apidocs/) for price data
-- Tutorial video: [YouTube Link](https://youtu.be/JqQEG0eipic)
 
 ---
 
